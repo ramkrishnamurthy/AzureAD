@@ -1,0 +1,15 @@
+*.user
+bin
+Bin
+binTests
+obj
+TestResults
+*.suo
+*.pdb
+*.log
+*.orig
+*.vsmdi
+*.vsp
+*.psess
+*.sdf
+
